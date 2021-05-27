@@ -1,4 +1,4 @@
-# hello-newworld
+# hello-world
 estimate_pi
 import random
 n= int(input (" Nhap so diem : "))
